@@ -83,7 +83,7 @@ yum install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-co
 
 ```
 systemctl start docker
-//将docker设置成开机自启动
+# 将docker设置成开机自启动
 systemctl enable docker.service
 ```
 
