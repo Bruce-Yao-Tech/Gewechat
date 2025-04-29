@@ -2,6 +2,9 @@
   <img src="logo.png" width="500px" height="350px" alt=" Logo">
 </p>
 
+# 因精力原因，本项目不再维护，该项目可能会因为版本过低导致封号，请谨慎使用。
+
+
 ## 👉 Gewechat🤖
 
 个人微信免费开源框架，支持二次开发、任意语言都可接入，Restful API接入。
